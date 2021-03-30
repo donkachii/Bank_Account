@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1617104909 source:c:\users\user\downloads\nelly\task2\bank_account.cpp
+	<iostream>
+	<iomanip>
+
